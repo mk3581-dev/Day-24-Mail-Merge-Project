@@ -21,4 +21,6 @@ for name in names:
     # STEP 4: Create new file for each person
     output_path = f"Output/ReadyToSend/letter_for_{clean_name}.txt"
 
-    with open(ou
+    with open(output_path, mode="w") as output_file:
+        output_file.write(personalized_letter)
+print("Letters have been generated and saved in the Output/ReadyToSend/ directory.")
