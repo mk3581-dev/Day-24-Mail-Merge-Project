@@ -116,4 +116,4 @@ Reading data from CSV files
 
 GUI version
 
-Email automation integration
+Email automation integration.
