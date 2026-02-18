@@ -117,3 +117,5 @@ Reading data from CSV files
 GUI version
 
 Email automation integration.
+
+Author - Mohit Kunwar
